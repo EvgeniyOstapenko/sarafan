@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/sarafan.iml" filepath="$PROJECT_DIR$/.idea/sarafan.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sarafan.sarafan.main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/sarafan.sarafan.main~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sarafan.sarafan.main~2.iml" filepath="$PROJECT_DIR$/.idea/modules/sarafan.sarafan.main~2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sarafan.sarafan.test~1.iml" filepath="$PROJECT_DIR$/.idea/modules/sarafan.sarafan.test~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sarafan.sarafan.test~2.iml" filepath="$PROJECT_DIR$/.idea/modules/sarafan.sarafan.test~2.iml" />
     </modules>
   </component>
 </project>
